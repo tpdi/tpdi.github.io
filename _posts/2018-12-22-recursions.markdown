@@ -7,9 +7,14 @@ categories: stackoverflow recursion
 
 (This post is a slightly edited version of my Stack Overflow answer, here: 
 https://stackoverflow.com/questions/717725/understanding-recursion/717839#717839,
-to a question about "Understanding recursion0
+to a question about "Understanding recursion".)
 
-----
+
+> I'm having major trouble understanding recursion at school. Whenever the professor is talking about it, I seem to get it but as soon as I try it on my own it completely blows my brains.
+
+> I was trying to solve Towers of Hanoi all night and completely blew my mind. My textbook has only about 30 pages in recursion so it is not too useful. Does anyone know of books or resources that can help clarify this topic?
+
+
 
 How do you empty a vase containing five flowers?
 
